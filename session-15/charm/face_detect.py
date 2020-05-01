@@ -24,11 +24,8 @@ while True:
             sorted_faces = sorted(faces, key=lambda item:item[2]*item[3])
 
             x, y, w, h = sorted_faces[-1]
-
             cut = image[y:y+h, x:x+w]
-
             resized = cv2.resize(cut, (100, 100))
-
             cv2.imshow("chopped", resized)
 
 
@@ -37,7 +34,8 @@ while True:
     if key == ord("q"):
         break
     elif key == ord("c"):
-        images.append(resized.mean(axis=2).flatten())
+        gray = cv2.cvtColor(resized, cv2.COLOR_BGR2GRAY)
+        images.append(gray.flatten())
         print(count)
         count -= 1
         if count == 0:
