@@ -11,8 +11,6 @@ while True:
 
         faces = classifier.detectMultiScale(image)
 
-
-
         if len(faces) >= 2:
             sorted_faces = sorted(faces, key=lambda item:item[2]*item[3])
 
