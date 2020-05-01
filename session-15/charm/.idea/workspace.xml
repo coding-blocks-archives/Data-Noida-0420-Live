@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3edc20f-64d0-4c90-97ce-4f833262c645" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/face_predict.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/face_detect.py" beforeDir="false" afterPath="$PROJECT_DIR$/face_detect.py" afterDir="false" />
-    </list>
+    <list default="true" id="a3edc20f-64d0-4c90-97ce-4f833262c645" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
