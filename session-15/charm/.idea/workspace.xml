@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3edc20f-64d0-4c90-97ce-4f833262c645" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../session-28/charm/shortner.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../session-28/charm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../session-28/charm/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../session-28/charm/flaskpage.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../session-28/charm/flaskpage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../session-28/charm/templates/first.template" beforeDir="false" afterPath="$PROJECT_DIR$/../../session-28/charm/templates/first.template" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,6 +14,7 @@
     <session id="1457248039">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.opened" value="2" />
@@ -248,7 +245,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.24947146" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
